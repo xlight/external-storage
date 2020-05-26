@@ -1,4 +1,5 @@
-module github.com/kubernetes-incubator/external-storage/nfs
+module github.com/xlight/external-storage/nfs
+//#module github.com/kubernetes-incubator/external-storage/nfs
 
 go 1.12
 
